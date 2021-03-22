@@ -1,5 +1,6 @@
 ## Tutorial Instal
 
+```bash
 > pkg update && pkg upgrade
 > pkg install git -y
 > pkg install nodejs -y
@@ -7,6 +8,8 @@
 > cd love-you
 > bash install.sh
 > npm start / node index.js
+```
+
 
 udah done scan di whatsapp web 
 
